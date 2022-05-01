@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32002.261
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Webmethod string builder Ajax call in asp.net and", "Webmethod string builder Ajax call in asp.net and\Webmethod string builder Ajax call in asp.net and.csproj", "{FAED8306-89A1-429D-84EA-9A4D513FE738}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FAED8306-89A1-429D-84EA-9A4D513FE738}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FAED8306-89A1-429D-84EA-9A4D513FE738}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FAED8306-89A1-429D-84EA-9A4D513FE738}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FAED8306-89A1-429D-84EA-9A4D513FE738}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {43D78C30-E73E-4119-B6C2-BF32D9CB44EB}
+	EndGlobalSection
+EndGlobal
